@@ -2,6 +2,10 @@
 
 This repo hosts community-curated content to effectivly running gunbot. ALL information here is licensed under MIT, but if it helps you please consider donating. 
 
+visit the [Public wiki](https://github.com/meesterdude/gbwiki/wiki)
+
+# disclaimer
+
 We are not affiliated with anyone. I probably know less about trading than you. All information should be used as-is, and no gurantee can be placed on its effectiveness or accuracy. You must exercise your own dilligence when operating on any kind of trading platform. 
 
 # Contributing
